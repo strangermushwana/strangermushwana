@@ -1,7 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there!</h1>
 
+<p>Welcome! </br> I'm Stranger, A FullStack developer from <b>Cape Town, South Africa</b><br><img src="https://cdn-icons-png.flaticon.com/512/520/520094.png"/></p>
 
-<p>Welcome! </br> I'm Stranger, A FullStack developer from <b>Cape Town, South Africa</b> <img src="https://cdn-icons-png.flaticon.com/512/520/520094.png"/></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=strangermushwana&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <h3>My Stack</h3>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
