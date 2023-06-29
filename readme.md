@@ -4,7 +4,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=strangermushwana&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<h3>My Stack</h3>
+<h3>My Stack</h3> 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
